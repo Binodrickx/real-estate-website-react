@@ -1,0 +1,33 @@
+# 🏡 Real Estate Website
+
+A modern and responsive real estate website built using **React.js** and **Tailwind CSS**.  
+This project showcases property listings with a clean UI and includes a **working contact/email feature**.
+
+
+
+##  Live Demo
+ https://estate-9nt.pages.dev/
+
+
+
+##  Features
+- Property listing interface
+- Responsive design (mobile-friendly)
+- Clean and modern UI
+- Working contact/email functionality
+- Reusable React components
+
+
+
+## 🛠️ Tech Stack
+- React.js
+- Tailwind CSS
+- JavaScript
+- Vite
+
+
+## 🚀 Getting Started
+
+```bash
+npm install
+npm run dev
